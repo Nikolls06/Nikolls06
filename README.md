@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Atualmente estou estudandi no Senai
-Estou aprendendo Html e CSS nesse  semestr
-Estou buscando  um emprego que  me de ixe milhonario 
-M
+aprendendo linguagens de programação e hardware
+com intuito de entrar para o mercado de trabalho e conseguir meu primeiro emprego.
+(●'◡'●)
