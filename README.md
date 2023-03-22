@@ -21,3 +21,6 @@ com intuito de entrar para o mercado de trabalho e conseguir meu primeiro empreg
 ##  ferramentas  e tecnologias
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+## estou  aprendendo 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"w
