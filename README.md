@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Atualmente estou estudandi no Senai
+Estou aprendendo Html e CSS nesse  semestr
+Estou buscando  um emprego que  me de ixe milhonario 
+M
