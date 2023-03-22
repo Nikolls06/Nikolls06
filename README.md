@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Atualmente estou estudandi no Senai
 aprendendo linguagens de programação e hardware
 com intuito de entrar para o mercado de trabalho e conseguir meu primeiro emprego.
@@ -23,4 +24,5 @@ com intuito de entrar para o mercado de trabalho e conseguir meu primeiro empreg
 ## estou  aprendendo 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100"6 height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="60" height="60" />
