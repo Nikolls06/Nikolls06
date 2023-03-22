@@ -19,5 +19,4 @@ aprendendo linguagens de programação e hardware
 com intuito de entrar para o mercado de trabalho e conseguir meu primeiro emprego.
 (●'◡'●)
 ##  ferramentas  e tecnologias]
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />          
