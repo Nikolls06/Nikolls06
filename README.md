@@ -1,9 +1,9 @@
-### Olá, sou o Nikolls 👋
+### Olá 👋
 
 🔭 Atualmente estou estudando **Ciência de Dados** e me aprofundando em análise de dados, aprendizado de máquina e visualização.  
 🌱 Em constante aprendizado para melhorar minhas habilidades e explorar novas tecnologias.  
 💬 Adoro conversar sobre programação, desenvolvimento web e IA!  
-📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-usuário-linkedin) ou me enviar um e-mail para **contato@seu-usuário-aqui**.  
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-usuário-linkedin) ou me enviar um e-mail para **nokolazgg@gmail.com**.  
 
 ---
 
@@ -23,16 +23,20 @@
 Eu uso e estou aprendendo as seguintes ferramentas e linguagens para meus projetos:
 
 ### Ferramentas que uso no meu dia a dia:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+</div>
 
 ### Linguagens que estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</div>
 
 ---
 
