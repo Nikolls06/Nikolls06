@@ -59,9 +59,7 @@ Eu uso e estou aprendendo as seguintes ferramentas e linguagens para meus projet
 
 ## 🎮 Diversão e Curiosidades
 
-⚡ **Curiosidade**: Eu adoro jogar, especialmente games que desafiam o raciocínio lógico!  
-🎮 **Hobbies**: Programar, aprender novas tecnologias e assistir streamings de games.
+⚡ **Curiosidade**: Eu adoro jogar, especialmente games!  
+🎮 **Hobbies**: Programar, aprender novas tecnologias.
 
 ---
-
-![Snake animation](https://github.com/Nikolls06/Nikolls06/blob/output/github-contribution-grid-snake.svg)
